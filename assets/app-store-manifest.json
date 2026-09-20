@@ -1,0 +1,195 @@
+{
+  "verifiedAt": "2026-09-20T19:38:15.678511+00:00",
+  "developerId": 1885352713,
+  "developerName": "Hazar Ustun",
+  "storefrontsChecked": [
+    "tr",
+    "us"
+  ],
+  "developerUrl": "https://apps.apple.com/us/developer/hazar-ustun/id1885352713",
+  "apps": [
+    {
+      "id": 6785916807,
+      "slug": "challengebu",
+      "name": "ChallengeBu!",
+      "bundleId": "app.challengebu.ios",
+      "category": "Sports",
+      "storeUrl": "https://apps.apple.com/app/id6785916807",
+      "minimumOsVersion": "16.4",
+      "description": "Tenis oynuyorsun — peki kazandıkların bir yere yazılsa? ChallengeBu, tenisi rekabetçi bir lige dönüştürüyor: rakibine meydan oku, maçı oyna, ELO'nla merdivende tırman.\n\nNASIL ÇALIŞIR\n• Sana uygun rakipler önerilir — birine meydan oku, tarih ve formatta anlaşın, kortta buluşun.\n• Sıralama maçı: kazandıkça ELO puanın artar, sıralamada yükselirsin.\n• Dostluk maçı: ELO'ya dokunmaz — sadece keyif ve antrenman için.\n\nLİG & SEVİYE\n• Kategorine göre sıralama: Erkek Tek, Kadın Tek, Open ve Çiftler.\n• Çaylak'tan Şampiyon'a uzanan seviyeler, rozetler ve kişisel istatistikler.\n• Form grafiğin ve ELO geçmişinle gelişimini takip et.\n\nSEZON & FİNAL\n• Sezon sonunda finale geri sayım — ilk 8'e gir, eleme bracket'inde yarış.\n• Sezon şampiyonu ol; yıl sonunda Yıllık Şampiyon unvanını kovala.\n\nCANLI SKOR\n• Maç sırasında skoru telefonu açmadan kilit ekranında ve Dynamic Island'da takip et.\n\nKİMLER GİREBİLİR\n• Şimdilik üniversite topluluğuna özel — .edu.tr uzantılı üniversite e-postanla (öğrenci, akademisyen, mezun) giriş yap.\n\nRaketini kap, birine meydan oku. Merdivenin en üstünde yer var — ilk tırmanan sen ol.",
+      "icon": {
+        "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/61/4e/cd614ed0-cf19-6cff-5e2f-8ffb9e6b5cbb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+        "path": "assets/apps/challengebu/icon.jpg",
+        "sha256": "91b26b91c3781350ce146e90d05d0e50076ae4c1ed864bcf6da63c0e05461adc"
+      },
+      "screenshots": [
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/04/83/370483c0-1c3f-c0a2-9a5b-e37c8f51c28c/challengebu1.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/04/83/370483c0-1c3f-c0a2-9a5b-e37c8f51c28c/challengebu1.png/600x1300bb.jpg",
+          "path": "assets/apps/challengebu/screenshot-01.jpg",
+          "sha256": "24762f11aee4dc381294bc779e73246615b965a41d396e8d77ee3f1012e90e37"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/5e/31/a55e3172-2eca-8a55-ab9b-83be96cdaefb/challengebu3.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/5e/31/a55e3172-2eca-8a55-ab9b-83be96cdaefb/challengebu3.png/600x1300bb.jpg",
+          "path": "assets/apps/challengebu/screenshot-02.jpg",
+          "sha256": "b872a337791fb4189799e029f113e24212487b6e73852c2103b7517b8f07e054"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/ca/4f/38ca4f8b-d1e7-3ba2-e824-fb1fb3e88897/challengebu6.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/ca/4f/38ca4f8b-d1e7-3ba2-e824-fb1fb3e88897/challengebu6.png/600x1300bb.jpg",
+          "path": "assets/apps/challengebu/screenshot-03.jpg",
+          "sha256": "d936a0079ed3abd0d26367d55fbc5f627f0803faf5ae3d59d27b527ef2d0885e"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/42/c0/9142c07e-b134-1525-cdab-f1a8d50a1c18/challengebu2.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/42/c0/9142c07e-b134-1525-cdab-f1a8d50a1c18/challengebu2.png/600x1300bb.jpg",
+          "path": "assets/apps/challengebu/screenshot-04.jpg",
+          "sha256": "d40e71d1f75db98d490111d5b4a4b15586ec17500c66e85a7a57d36557b67c2e"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/4c/ea/454cea85-e27c-3a87-c59f-a31f75fe461a/challengebu5.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/4c/ea/454cea85-e27c-3a87-c59f-a31f75fe461a/challengebu5.png/600x1300bb.jpg",
+          "path": "assets/apps/challengebu/screenshot-05.jpg",
+          "sha256": "2216ac4744c1cb3704b8261d071824c0af659551e9a52a6b335d8c06f5debad2"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/b2/ed/8ab2ede7-adf8-064e-1a09-d65d3b743bb2/challengebu4.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/b2/ed/8ab2ede7-adf8-064e-1a09-d65d3b743bb2/challengebu4.png/600x1300bb.jpg",
+          "path": "assets/apps/challengebu/screenshot-06.jpg",
+          "sha256": "35df6aac9d683391b4b507b0839bf11798ddc9dfaa959736e46da362d09407fd"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/c9/d5/35c9d50f-1a02-f4e5-5287-d71aa9fb9fbd/challengebu7.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/c9/d5/35c9d50f-1a02-f4e5-5287-d71aa9fb9fbd/challengebu7.png/600x1300bb.jpg",
+          "path": "assets/apps/challengebu/screenshot-07.jpg",
+          "sha256": "9860f8cd9eb5137e07e9c7c5fcbae260c8b52188c5b5232ccd0bfac3b5eb511a"
+        }
+      ]
+    },
+    {
+      "id": 6803907181,
+      "slug": "zoo-merge",
+      "name": "Zoo Merge: Rescue the Animals",
+      "bundleId": "com.hazarustun.gemmerge",
+      "category": "Games",
+      "storeUrl": "https://apps.apple.com/app/id6803907181",
+      "minimumOsVersion": "17.0",
+      "description": "Drop. Merge. Rescue.\n\nTwo of the same animal become the next one up. A mouse and a mouse make a hamster. Two hamsters make a rabbit, and the chain keeps climbing all the way to the elephant — if you can keep the pen from spilling past the line.\n\nRESCUE A WHOLE ZOO\nEvery record you beat opens the next habitat on your map. Forty of them, each holding an animal that stays rescued for good. No timers, no energy bar, no waiting around to play again.\n\nSILVER, GOLD AND PURPLE\nMerge two of a kind and the coat steps up a grade. Silver doubles the score of any merge it joins. Gold is the step that breeds purple. And every purple animal carries a power of its own — the mouse pulls its neighbours in, the cat slams the pen flat, the bear shakes the ground, and the elephant sweeps the little ones clean away. Ten animals, ten different powers.\n\nTHREE HELPERS, ALWAYS THERE\nPen full of mice and nothing to pair? Spend your coins on a helper and drop a rabbit, a cat or a bear exactly where you need one.\n\nPLAY IT YOUR WAY\n• One thumb, portrait, anywhere\n• Left-handed layout if you want it\n• Reduce Motion for calmer effects\n• Music and sound on separate dials\n• Everything saves on your device — no account, no sign-up, nothing to remember\n\nFree to play. Watch a short ad for coins or a second chance whenever you feel like it, or pick up diamonds and Remove Ads if you would rather not watch any.",
+      "icon": {
+        "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/35/b2/ba35b271-bb00-16b7-e57c-552752ef6d96/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+        "path": "assets/apps/zoo-merge/icon.jpg",
+        "sha256": "6cb6da4c71fbff35c91dc5ad7ed60c48bfb82a6bc89164463751b8b9baaca969"
+      },
+      "screenshots": [
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/66/63/3f666361-bd86-0c69-94cb-b2b6babffa44/01_APP_IPHONE_69_drop-merge-grow.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/66/63/3f666361-bd86-0c69-94cb-b2b6babffa44/01_APP_IPHONE_69_drop-merge-grow.png/600x1300bb.jpg",
+          "path": "assets/apps/zoo-merge/screenshot-01.jpg",
+          "sha256": "e65e9fcc8befc585f45df5455429e33fd46dd1c7d67413e68fa47f6cf035890c"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/c8/ec/06c8ece2-084b-d78b-6f9f-8bb76781cfac/02_APP_IPHONE_69_build-your-zoo.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/c8/ec/06c8ece2-084b-d78b-6f9f-8bb76781cfac/02_APP_IPHONE_69_build-your-zoo.png/600x1300bb.jpg",
+          "path": "assets/apps/zoo-merge/screenshot-02.jpg",
+          "sha256": "b34ff50f90faa956e405d3a6847f9f0cf04c9b504ece69b9972454641fc73d6b"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/dd/d9/3addd9c8-b957-3e08-2fbc-26d930c94ffd/03_APP_IPHONE_69_coats.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/dd/d9/3addd9c8-b957-3e08-2fbc-26d930c94ffd/03_APP_IPHONE_69_coats.png/600x1300bb.jpg",
+          "path": "assets/apps/zoo-merge/screenshot-03.jpg",
+          "sha256": "61e250905b12c983edd328af2ae701da86e250599b9188e735c2c0b85c2d2d4a"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/b5/f7/03b5f771-10c5-b9eb-f8f6-1ae20d6287ac/04_APP_IPHONE_69_grow-bigger.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/b5/f7/03b5f771-10c5-b9eb-f8f6-1ae20d6287ac/04_APP_IPHONE_69_grow-bigger.png/600x1300bb.jpg",
+          "path": "assets/apps/zoo-merge/screenshot-04.jpg",
+          "sha256": "9ae9ba5af1da9b0f2c93ed4f973af9ee8234a0d0ebe2be8b1b8ef25cea79cdb0"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/35/7f/bc357f20-d793-62f0-8fc4-56d15acb3123/05_APP_IPHONE_69_chain.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/35/7f/bc357f20-d793-62f0-8fc4-56d15acb3123/05_APP_IPHONE_69_chain.png/600x1300bb.jpg",
+          "path": "assets/apps/zoo-merge/screenshot-05.jpg",
+          "sha256": "ba9a315920180f038ff05d8a4653c21cb519ceab9ac9b10b789e2d25481321d9"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/0d/c1/a60dc117-7c7d-8f85-9bd2-9777fc3f885a/06_APP_IPHONE_69_every-score.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/0d/c1/a60dc117-7c7d-8f85-9bd2-9777fc3f885a/06_APP_IPHONE_69_every-score.png/600x1300bb.jpg",
+          "path": "assets/apps/zoo-merge/screenshot-06.jpg",
+          "sha256": "0b0f4cc51b5cdcae5e6d0443930077e77c55ba9cd3c5acb6d16b10bd879ff1ce"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/39/9e/83399e0f-bd65-a932-8efc-7d8e9baa19a0/07_APP_IPHONE_69_rescue.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/39/9e/83399e0f-bd65-a932-8efc-7d8e9baa19a0/07_APP_IPHONE_69_rescue.png/600x1300bb.jpg",
+          "path": "assets/apps/zoo-merge/screenshot-07.jpg",
+          "sha256": "a3b761337d57b83efc0945f86bc726f70cfb968c8a5d733e2bb042bda667789b"
+        }
+      ]
+    },
+    {
+      "id": 6796640617,
+      "slug": "cekim-yasasi-bolluk",
+      "name": "Çekim Yasası: Bolluk",
+      "bundleId": "com.hazarustun.moneymagnet",
+      "category": "Lifestyle",
+      "storeUrl": "https://apps.apple.com/app/id6796640617",
+      "minimumOsVersion": "17.0",
+      "description": "Çekim Yasası: Bolluk, kadim bilgelikten ilham alan bir bolluk ve motivasyon uygulamasıdır. Babil'in en zengin adamının sırlarından beslenen yedi sade pratikle gününü bereket niyetiyle açar, dileklerini yazar, gelen ve verdiğin bereketi kaydeder, evren çekini kabul edip hayalini harcar ve gece uyurken bolluk frekanslarıyla iç huzuruna eşlik edersin.\n\nGÜNÜN SÖZÜ — Her gün açılan tek bir kadim söz, seni o gün için bolluk niyetine odaklar.\n\nEVREN ÇEKİ — Evrenden her gün kesilen, gitgide büyüyen bir çeki kabul et; bereket bakiyen büyüsün.\n\nHARCAMALARIM — Biriken bereketi hayalinde harca; kendi bolluk hikâyeni bir defterde tut.\n\nDİLEKLERİM — Para sorun olmasa alacağın 7 şeyi yaz, evrene emanet et, gerçekleştikçe mühürle.\n\nGELEN BEREKET — Hayatına giren küçük ya da büyük güzellikleri kaydet, bereketin izini kaybetme.\n\nVERDİKLERİM — Verdiğin bahşiş, hediye ve iyilikleri not et; cömertlik de bollukla beslenir.\n\nBEREKET FREKANSLARI — Uykuya dalarken dinleyebileceğin, bilinçaltını bolluk temasıyla besleyen sakin ses parçaları.\n\nÇEK ARŞİVİ — Kabul ettiğin her çeki gör, gün sayacıyla üst üste kaç gündür bereket pratiği yaptığını takip et.\n\nAYARLAR — Hatırlatma saatini, sesleri ve tercihlerini kendi ritmine göre ayarla.\n\nNeden Çekim Yasası: Bolluk?\n• Sade, günde birkaç dakika süren yedi bereket pratiği\n• Arşivinde biriken çekler ve gün sayacınla ilerlemeni gör\n• Hesap yok, üyelik yok, reklam yok\n• Tamamen cihazında çalışır — internet gerektirmez, hiçbir veri toplanmaz ya da paylaşılmaz\n• Tek seferlik satın alma — uygulama içi ek satın alma veya gizli ücret yok\n\nNot: Çekim Yasası: Bolluk bir motivasyon ve kişisel gelişim uygulamasıdır. İçerik eğlence ve ilham amaçlıdır; finansal tavsiye niteliği taşımaz, gerçek gelir veya maddi sonuç vaat etmez.\n\nKadim bereket ritüelini bugün kendi hayatına taşı.",
+      "icon": {
+        "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/24/ab/9324ab14-7d48-8ef6-5ab9-b7b57b419dba/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+        "path": "assets/apps/cekim-yasasi-bolluk/icon.jpg",
+        "sha256": "7d816b8242b2ce1ee5be6d81491f3503c8409845b75f14ef4595a925e317eb99"
+      },
+      "screenshots": [
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/fd/56/2efd565e-21e4-76eb-78a9-7ff63ba145d7/01_home.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/fd/56/2efd565e-21e4-76eb-78a9-7ff63ba145d7/01_home.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-01.jpg",
+          "sha256": "775ae02820431a39eb901981fec78f4758b9d852898823b8154b3dcd1d7f8c16"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/71/47/a47147ff-9cf5-9229-15c6-b23b26ec1629/02_evren_ceki.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/71/47/a47147ff-9cf5-9229-15c6-b23b26ec1629/02_evren_ceki.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-02.jpg",
+          "sha256": "363848ff74de2bb9cd1347a6aab6240c6c86ff22b990d1842b2062d57a2a23d6"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/03/77/dc0377f3-9410-f0eb-9d52-aa63d5281f94/03_harcamalarim.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/03/77/dc0377f3-9410-f0eb-9d52-aa63d5281f94/03_harcamalarim.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-03.jpg",
+          "sha256": "881d3dda0d1a7cca0f100fdc4d61a2155853c6b35e0e87e87c1e55aa4a8a29c5"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fc/55/1efc558c-5413-e397-78e1-ab10d1dbc17e/04_dileklerim.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fc/55/1efc558c-5413-e397-78e1-ab10d1dbc17e/04_dileklerim.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-04.jpg",
+          "sha256": "dbe0245960bea87434e8c5cc849f82171a5afe688fab20322d8c049377d19ad7"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/22/81/aa2281b2-53cb-d80f-c22e-9513d4ef4c25/05_gunun_sozu.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/22/81/aa2281b2-53cb-d80f-c22e-9513d4ef4c25/05_gunun_sozu.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-05.jpg",
+          "sha256": "faa675ec15d290d319e9be4fc9dbbf649a99ade1ba039278ba3e4c77f8410862"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/95/ae/be95aeed-0dc7-0d74-aec1-098d837cf760/06_frekanslar.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/95/ae/be95aeed-0dc7-0d74-aec1-098d837cf760/06_frekanslar.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-06.jpg",
+          "sha256": "23e332998e2dc8a155d6b0ca0977982860da3532317642399646beb493abcdff"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/5f/2f/605f2fd8-5e46-ab0d-4472-5026538eb3ee/07_cek_arsivi.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/5f/2f/605f2fd8-5e46-ab0d-4472-5026538eb3ee/07_cek_arsivi.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-07.jpg",
+          "sha256": "66d99457c5e89a4584703bbab6e58c7db4258d2e98fbc6a23caea4fe93bacb01"
+        },
+        {
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/53/75/be5375b5-2d98-1ad5-3745-9727d2a75b6b/08_ayarlar.png/320x480bb.jpg",
+          "downloadUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/53/75/be5375b5-2d98-1ad5-3745-9727d2a75b6b/08_ayarlar.png/600x1300bb.jpg",
+          "path": "assets/apps/cekim-yasasi-bolluk/screenshot-08.jpg",
+          "sha256": "ff3c22dd72c699b607bb08d08d47d67a7001cb75bfe35d1cb5e7f88d41508ef0"
+        }
+      ]
+    }
+  ]
+}
