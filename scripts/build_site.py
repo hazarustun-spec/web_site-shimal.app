@@ -15,7 +15,7 @@ coming_soon={
 'shimal':dict(name='Shimal',category='Astrology',summary='Personalized daily astrology, shaped by your birth chart.',icon='assets/apps/shimal/icon.png'),
 'bringlight':dict(name='Bring Light',category='Photo & Video',summary='Relight dark, flat photos with thoughtful editing tools.',icon='assets/apps/bringlight/icon.png'),
 'marker':dict(name='marker.',category='News',summary='A focused daily briefing on the stories shaping AI.',icon='assets/apps/marker/icon.png'),
-'drappin':dict(name='drappin',category='Shopping',summary='Turn your Pinterest inspiration into a shoppable list.',icon='assets/apps/drappin/icon.jpg')
+'drappin':dict(name='drappin',category='Shopping',summary='Snap any outfit and find it in real stores.',icon='assets/apps/drappin/icon.jpg')
 }
 
 def e(s): return html.escape(str(s),quote=True)
@@ -68,7 +68,7 @@ other={
 'bringlight':('Bring Light',[('index.html#support','Support'),('privacy.html','Privacy Policy'),('terms.html','Terms of Use'),('gizlilik.html','Gizlilik (TR)'),('kosullar.html','Koşullar (TR)')]),
 'shimal':('Shimal',[('index.html','App page'),('../privacy.html','Privacy Policy'),('../terms.html','Terms of Use')]),
 'marker':('marker.',[('index.html','App page'),('privacy.html','Privacy Policy'),('terms.html','Terms of Use')]),
-'drappin':('drappin',[('index.html','App page'),('privacy.html','Privacy Policy'),('terms.html','Terms of Use')])}
+'drappin':('drappin',[('support.html','Support'),('privacy.html','Privacy Policy'),('terms.html','Terms of Use')])}
 for slug,(name,links) in other.items():
  items=''.join(f'<a href="../{slug}/{url}">{e(label)} {ARROW}</a>' for url,label in links)
  rows.append(f'<article class="support-row"><h2><a href="../{slug}/">{e(name)}</a></h2><nav aria-label="{e(name)} documents">{items}</nav></article>')
