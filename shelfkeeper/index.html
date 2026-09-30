@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shelfkeeper — Your home library, shelved</title>
+  <meta name="description" content="Shelfkeeper keeps a record of the physical books in your home. Scan a barcode — or the cover itself — and the book files itself onto a shelf. Know where every book sits, what you have read, and who still has the one you lent.">
+  <meta property="og:title" content="Shelfkeeper — Your home library, shelved">
+  <meta property="og:description" content="Scan the barcode, or the cover. Know where every book sits and who has the one you lent.">
+  <meta property="og:type" content="website">
+  <link rel="canonical" href="https://shimal.app/shelfkeeper/">
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #F2F3F1;
+      --text: #0B0B0C;
+      --accent: #DC0073;
+      --accent-dark: #A80058;
+      --amber: #F5B700;
+      --surface: #FFFFFF;
+      --muted: #5A5F62;
+      --border: #DDE1E0;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+    .serif { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; letter-spacing: -0.02em; }
+
+    nav {
+      padding: 24px 0; display: flex; justify-content: space-between;
+      align-items: center; border-bottom: 1px solid var(--border);
+    }
+    .logo {
+      font-family: 'Cormorant Garamond', serif; font-weight: 700;
+      font-size: 26px; color: var(--text); text-decoration: none;
+    }
+    .logo-dot { color: var(--accent); }
+    .nav-links { display: flex; gap: 28px; align-items: center; }
+    .nav-links a { color: var(--text); text-decoration: none; font-size: 15px; font-weight: 500; }
+    .nav-links a:hover { color: var(--accent); }
+
+    header.hero { padding: 88px 0 72px; display: grid; grid-template-columns: 1fr auto; gap: 48px; align-items: center; }
+    .hero h1 { font-size: 64px; line-height: 1.05; margin-bottom: 20px; }
+    .hero .lede { font-size: 19px; color: var(--muted); max-width: 46ch; margin-bottom: 28px; }
+    .hero-icon { width: 168px; height: 168px; border-radius: 38px; border: 1px solid var(--border); }
+    .badge {
+      display: inline-block; background: var(--amber); color: var(--text);
+      font-size: 12px; font-weight: 600; letter-spacing: 1.2px; text-transform: uppercase;
+      padding: 5px 11px; border-radius: 4px; margin-bottom: 22px;
+    }
+
+    section { padding: 64px 0; border-top: 1px solid var(--border); }
+    h2.section-title { font-size: 34px; margin-bottom: 32px; }
+    .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; }
+    .feature { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 26px; }
+    .feature h3 { font-size: 18px; margin-bottom: 10px; }
+    .feature p { font-size: 15px; color: var(--muted); }
+
+    .links { display: flex; gap: 16px; flex-wrap: wrap; }
+    .links a {
+      display: inline-flex; align-items: center; gap: 8px; background: var(--surface);
+      border: 1px solid var(--border); border-radius: 10px; padding: 14px 18px;
+      color: var(--text); text-decoration: none; font-size: 15px; font-weight: 500;
+    }
+    .links a:hover { border-color: var(--accent); color: var(--accent); }
+
+    footer { padding: 48px 0 72px; border-top: 1px solid var(--border); color: var(--muted); font-size: 14px; }
+    footer a { color: var(--text); }
+
+    @media (max-width: 760px) {
+      header.hero { grid-template-columns: 1fr; padding: 56px 0 48px; }
+      .hero h1 { font-size: 44px; }
+      .hero-icon { width: 120px; height: 120px; border-radius: 28px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <a class="logo" href="../">shimal<span class="logo-dot">.</span></a>
+      <div class="nav-links">
+        <a href="privacy.html">Privacy</a>
+        <a href="terms.html">Terms</a>
+        <a href="mailto:hello@shimal.app">Support</a>
+      </div>
+    </nav>
+
+    <header class="hero">
+      <div>
+        <span class="badge">Coming soon</span>
+        <h1 class="serif">Your home library,<br>shelved.</h1>
+        <p class="lede">A record of the books you actually own. What is on which shelf, what you have read, and who still has the one you lent last spring.</p>
+      </div>
+      <img class="hero-icon" src="../assets/apps/shelfkeeper/icon.png" alt="Shelfkeeper app icon" width="512" height="512">
+    </header>
+
+    <section>
+      <h2 class="section-title serif">What it does</h2>
+      <div class="features">
+        <div class="feature">
+          <h3>Scan the barcode</h3>
+          <p>Point the camera at the back of a book. The title, author, publisher and year arrive on their own.</p>
+        </div>
+        <div class="feature">
+          <h3>Or scan the cover</h3>
+          <p>Older books have no barcode, and plenty of Turkish printings carry one that will not read. Photograph the cover instead: the type is read on your device and the book is found by what it says.</p>
+        </div>
+        <div class="feature">
+          <h3>Know where it sits</h3>
+          <p>Put every book in a room and on a shelf. When you say "the top shelf in the living room", the app knows what you mean.</p>
+        </div>
+        <div class="feature">
+          <h3>Remember what you lent</h3>
+          <p>Who took it, when, and when it is due back. The gap it left stays drawn on the shelf, so you can see the book is out of the house.</p>
+        </div>
+        <div class="feature">
+          <h3>The story of the book</h3>
+          <p>Where you got it, who gave it to you, what is written inside. Photograph the inscription and keep the note — that is what remains years later.</p>
+        </div>
+        <div class="feature">
+          <h3>iPhone and Mac</h3>
+          <p>Sign in with Apple and the same shelf appears on both. Signed out it works just as well; the library simply stays on the device.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title serif">Privacy, briefly</h2>
+      <p class="lede">The photographs you take never leave your device. Book lookups send an ISBN or the words read off a cover — never your name, your account or your other books. No analytics, no advertising identifiers, no tracking. You can delete your account, and everything in it, from inside the app.</p>
+      <div class="links">
+        <a href="privacy.html">Privacy policy</a>
+        <a href="terms.html">Terms of service</a>
+        <a href="mailto:hello@shimal.app">hello@shimal.app</a>
+      </div>
+    </section>
+
+    <footer>
+      <p>© 2026 Shimal · Independent apps, made in Istanbul · <a href="../">shimal.app</a></p>
+    </footer>
+  </div>
+</body>
+</html>
