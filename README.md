@@ -3,7 +3,7 @@
 Static website for shimal.app, hosted by the existing GitHub Pages repository.
 
 - `index.html`: all currently published apps.
-- The home page also lists Shimal, Bring Light, marker., and drappin under “Coming soon”, linked to their existing pages.
+- The home page also lists Shimal, Bring Light, marker., drappin, and Bump Roll under “Coming soon”, linked to their existing pages. `bump-roll/` holds the game page plus its support, privacy, and terms documents (hand-written, like the other legal pages).
 - `zoo-merge/`, `challengebu/`, `cekim-yasasi-bolluk/`: individual app pages.
 - `support/`: links to every existing app and its legal documents.
 - `assets/site.css`: Helvetica, black, white, and #2626F5.
