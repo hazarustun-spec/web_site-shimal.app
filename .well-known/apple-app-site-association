@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4MBWF4RGV7.com.hazarustun.gemmerge"],
+        "components": [
+          {
+            "/": "/zoo-merge",
+            "comment": "the game's page opens the game"
+          },
+          {
+            "/": "/zoo-merge/halloween",
+            "comment": "the App Store event card opens the game"
+          },
+          {
+            "/": "/zoo-merge/privacy.html",
+            "exclude": true,
+            "comment": "the privacy policy stays in the browser, where a reviewer or a regulator expects to read it"
+          }
+        ]
+      }
+    ]
+  }
+}
